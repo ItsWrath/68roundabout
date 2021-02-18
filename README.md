@@ -10,6 +10,12 @@ This Adds An Upgraded Roundabout On **Route 68** Across From **Yellowjack**
 - Drag Into Your `resources` Folder
 - Add ``ensure 68roundabout`` To Your `server.cfg`
 
-## Videos
-- [Day](https://streamable.com/pza708)
-- [Night](https://streamable.com/004lmt)
+## Pictures
+<details>
+           <summary>Day</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
+<details>
+           <summary>Night</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
