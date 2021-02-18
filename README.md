@@ -17,7 +17,7 @@ This Adds An Upgraded Roundabout On **Route 68** Across From **Yellowjack**
   - [Image 3](https://imgur.com/mZiMSfq)
   - [Image 4](https://imgur.com/SisWrUT)
 - Night
-  - [Image 1](https://imgur.com/3u8sykx)
-  - [Image 2](https://imgur.com/MdC2eJw)
-  - [Image 3](https://imgur.com/mZiMSfq)
-  - [Image 4](https://imgur.com/SisWrUT)
+  - [Image 1](https://imgur.com/WpvN0Fs)
+  - [Image 2](https://imgur.com/AULUF8v)
+  - [Image 3](https://imgur.com/aALpIEe)
+  - [Image 4](https://imgur.com/ac94Xws)
