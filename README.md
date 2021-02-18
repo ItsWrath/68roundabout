@@ -1,7 +1,7 @@
 # Route 68 Roundabout
 Created By [ItsWrath](https://github.com/ItsWrath/panormaconstruction/new/main?readme=1)
 
-This is my first ever map, it's a small construction site located on Panorama Dr across from Yellow Jack. If you find any issues or have some suggestions please let me know, I tested this in multiple servers and there was no performance changes. I plan to continue updating this as I get new ideas.
+This is my second map, it removes trash, adds trees, bushes, and shrubs as well as streeghtlights and a stop sign. It goes even better if you have some trees around Sandy, I tested it on multiple servers with no performance changes. 
 ## What It Adds
 This Adds An Upgraded Roundabout On **Route 68** Across From **Yellowjack**
 
