@@ -3,7 +3,7 @@ Created By [ItsWrath](https://github.com/ItsWrath/panormaconstruction/new/main?r
 
 This is my first ever map, it's a small construction site located on Panorama Dr across from Yellow Jack. If you find any issues or have some suggestions please let me know, I tested this in multiple servers and there was no performance changes. I plan to continue updating this as I get new ideas.
 ## What It Adds
-This Adds An Upgraded Roundabout In **Sandy Shores** Across From **Yellowjack**
+This Adds An Upgraded Roundabout On **Route 68** Across From **Yellowjack**
 
 ## Installation
 - Download
