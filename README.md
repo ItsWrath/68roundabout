@@ -11,7 +11,13 @@ This Adds An Upgraded Roundabout On **Route 68** Across From **Yellowjack**
 - Add ``ensure 68roundabout`` To Your `server.cfg`
 
 ## Pictures
-- [Image 1](https://imgur.com/3u8sykx)
-- [Image 2](https://imgur.com/MdC2eJw)
-- [Image 3](https://imgur.com/mZiMSfq)
-- [Image 4](https://imgur.com/SisWrUT)
+- Day
+  - [Image 1](https://imgur.com/3u8sykx)
+  - [Image 2](https://imgur.com/MdC2eJw)
+  - [Image 3](https://imgur.com/mZiMSfq)
+  - [Image 4](https://imgur.com/SisWrUT)
+- Night
+  - [Image 1](https://imgur.com/3u8sykx)
+  - [Image 2](https://imgur.com/MdC2eJw)
+  - [Image 3](https://imgur.com/mZiMSfq)
+  - [Image 4](https://imgur.com/SisWrUT)
