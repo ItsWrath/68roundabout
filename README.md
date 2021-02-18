@@ -13,9 +13,15 @@ This Adds An Upgraded Roundabout On **Route 68** Across From **Yellowjack**
 ## Pictures
 <details>
            <summary>Day</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+           [picture alt](http://via.placeholder.com/200x150 "Title is optional")
+           [picture alt](http://via.placeholder.com/200x150 "Title is optional")
+           [picture alt](http://via.placeholder.com/200x150 "Title is optional")
+           [picture alt](http://via.placeholder.com/200x150 "Title is optional")
          </details>
 <details>
            <summary>Night</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+           [picture alt](http://via.placeholder.com/200x150 "Title is optional")
+           [picture alt](http://via.placeholder.com/200x150 "Title is optional")
+           [picture alt](http://via.placeholder.com/200x150 "Title is optional")
+           [picture alt](http://via.placeholder.com/200x150 "Title is optional")
          </details>
