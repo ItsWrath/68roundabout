@@ -1,3 +1,7 @@
 fx_version 'bodacious'
+
+author 'ItsWrath'
+
 game 'gta5'
-this_is_a_map 'yes'
+
+is_this_a_map 'yes'
